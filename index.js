@@ -62,8 +62,7 @@ client.on('interactionCreate', async interaction => {
     await interaction.reply({
       content: "🤷 O CONSELHO NÃO FAZ A MENOR IDEIA!!",
       embeds: [{
-        image: {
-          url: "https://resizing.flixster.com/8AAomsShvrwMKbzf_RkEWpEL3cc=/375x210/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11921844_e_h10_ab.jpg"
+        image: "https://x.com/nxverkenough/status/2070883716595908956.jpg"
         }
       }]
     });
