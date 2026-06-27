@@ -63,7 +63,7 @@ client.on('interactionCreate', async interaction => {
       content: "🤷 O CONSELHO NÃO FAZ A MENOR IDEIA!!",
       embeds: [{
         image: {
-          url: "https://pbs.twimg.com/media/HL1Bw-cW0AADDK3?format=jpg&name=small"
+          url: "https://pbs.twimg.com/media/HL1Bw-cW0AADDK3.jpg"
         }
       }]
     });
