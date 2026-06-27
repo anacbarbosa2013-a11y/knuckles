@@ -62,7 +62,8 @@ client.on('interactionCreate', async interaction => {
     await interaction.reply({
       content: "🤷 O CONSELHO NÃO FAZ A MENOR IDEIA!!",
       embeds: [{
-        image: "https://x.com/nxverkenough/status/2070883716595908956.jpg"
+        image: {
+          url: "https://pbs.twimg.com/media/HL1Bw-cW0AADDK3?format=jpg&name=small"
         }
       }]
     });
