@@ -73,7 +73,7 @@ const KNUCKLES_RANDOM = [
   },
   {
     text: "🍼 ESSA NÃO! O BEBÊ ESTÁ EM PERIGO!",
-    image: "https://pbs.twimg.com/media/FVMR-_TWYAMVIC-.jpg"
+    image: "https://pbs.twimg.com/media/FVMR-_TWYAMVIC-.jpg",
     rarity: "legendary"
   },
   {
